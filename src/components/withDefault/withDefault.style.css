@@ -1,0 +1,10 @@
+.default {
+    text-align: center;
+    color: rgb(99, 12, 180);
+    font-size: 3rem;
+}
+
+.default:hover {
+    cursor: pointer;
+    color: blue;
+}
